@@ -75,17 +75,24 @@ Here are some ideas to get you started:
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishav-sunny&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rishav-sunny&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-sunny&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
 
-#🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rishav-sunny&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=rishav-sunny&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<p align="center">
+   <img src="https://nirzak-streak-stats.vercel.app/?user=rishav-sunny&theme=default&hide_border=false" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-sunny&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180" />
+ 
+</p>
 
-#🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rishav-sunny&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rishav-sunny&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rishav-sunny&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rishav-sunny&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=rishav-sunny&icon=5&color=12)](https://visitcount.itsvg.in)
+
 </p>
