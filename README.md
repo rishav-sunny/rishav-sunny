@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 
 <!-- Frameworks -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50" style="background-color:#000; border-radius:10px; padding:5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="background-color:#000; border-radius:10px; padding:5px;"/>
 
 
