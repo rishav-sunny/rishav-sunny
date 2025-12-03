@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💬  Passionate about learning emerging technologies and delivering high-quality, scalable solutions
 - 🎯 Goal: To combine technical skills and creative thinking for real-world impact
 - 📫 Reach me at rishavkumar01.in@gmail.com
-- 🎯 <p align="center"><a href="[https://linkedin.com/in/your-linkedin](https://drive.google.com/)" target="_blank"><img src="[https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white](https://drive.google.com/file/d/1U5kZn7-r_i-FltUfVjlfLpcWh-slC4QG/view)" alt="Resume"/></a></p>
+- 🎯 <p align="left"><a href="https://drive.google.com/" target="_blank"><img src="https://drive.google.com/file/d/1U5kZn7-r_i-FltUfVjlfLpcWh-slC4QG/view" alt="Resume"/></a></p>
 
 
 <!--
